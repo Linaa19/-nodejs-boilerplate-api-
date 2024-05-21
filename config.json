@@ -4,7 +4,7 @@
         "port" : 3306,
         "user" : "root",
         "password" : "",
-        "database" : "MINI-LMS"
+        "database" : "MINI-LMS API"
     },
     "secret": "RSmpo2AB20u0qYdfX1En5w==",
     "emailFrom": "info@node-mysql-signup-verification-api.com",
